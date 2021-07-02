@@ -17,5 +17,5 @@
 ### Siga nossas redes sociais
 <a href="https://twitter.com/ufmgeducativa"><img src="/img/twitter.ico" widht="50" height="50" /></a>  <a href="https://www.instagram.com/ufmgeducativa/?hl=pt-br"><img src="/img/insta.ico" widht="50" height="50" /></a>
 
-Author: @rafaellmario
-Released: 02/07/2021
+
+**Released**: 02/07/2021
