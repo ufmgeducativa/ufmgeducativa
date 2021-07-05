@@ -11,7 +11,7 @@
 
 <p align="justify">Referência em produção radiofônica entre as rádios universitárias do país, a <b>UFMG Educativa</b> tem a missão de dar visibilidade à produção de conhecimento da Universidade, por meio da comunicação pública da ciência e do fomento à discussão constante de temas relacionados à educação e à cultura. A emissora está vinculada ao Centro de Comunicação da UFMG (Cedecom) e é composta pelos núcleos de Jornalismo, Operações e Programação.</p>
 
-<img src="./img/radio_logo.webp" widht="300" height="300" />
+<img src="./img/ufmg_educativa.png"/>
 
 
 ### Siga nossas redes sociais
