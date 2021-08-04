@@ -5,7 +5,7 @@
 
 ## A estação do conhecimento
 
-<p align="justify"> A <b>UFMG Educativa</b> é uma rádio pública universitária, fruto da parceria entre a <b>Universidade Federal de Minas Gerais</b> (UFMG) e a <b>Empresa Brasil de Comunicação</b> (EBC), transmitindo 24 horas de programação por dia na freqüência modulada de 104,5MHz para Belo Horizonte e região metropolitana e também pode ser ouvida também pela internet em <a href="https://ufmg.br/comunicacao/radio-ufmg-educativa">radioufmg</a>.</p> 
+<p align="justify"> A <b>UFMG Educativa</b> é uma rádio pública universitária, fruto da parceria entre a <b>Universidade Federal de Minas Gerais</b> (UFMG) e a <b>Empresa Brasil de Comunicação</b> (EBC), transmitindo 24 horas de programação por dia na freqüência modulada de 104,5MHz para Belo Horizonte e região metropolitana e também pode ser ouvida pela internet em <a href="https://ufmg.br/comunicacao/radio-ufmg-educativa">radioufmg</a>.</p> 
 
 <p align="justify"> Inaugurada em 6 de setembro de 2005, a emissora oferece uma programação diferenciada e de qualidade que represente uma alternativa aos formatos e gêneros musicais já existentes no mercado e colabore na formação cultural do público.</p> 
 
